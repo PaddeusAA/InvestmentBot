@@ -1,0 +1,16 @@
+.idea/
+*.iml
+*.iws
+*.class
+*.log
+*.tmp
+*.lock
+log/
+target/
+Thumbs.db
+HELP.md
+mvnw.cmd
+mvnw
+.mvn/
+.idea\workspase.xml
+application.properties
